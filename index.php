@@ -1,3 +1,3 @@
 <?php
-	echo "You've reached the default page";
+	echo "PHPower to PHPeople";
 ?>
